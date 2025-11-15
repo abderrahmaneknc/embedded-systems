@@ -10,7 +10,7 @@ This repository contains my embedded systems project, including:
 
 ## 🛠 Requirements
 - SimuIDE
-- AVR-GCC / Arduino IDE
+- AVR-GCC / Arduino IDE / platformIo (vs code extension)
 - (Any libraries you used)
 
 ## ▶️ How to Run
