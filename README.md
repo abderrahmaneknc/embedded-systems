@@ -15,7 +15,7 @@ This repository contains my embedded systems project, including:
 
 ## ▶️ How to Run
 1. Open the SimuIDE project 
-2. Upload the code from /src to the microcontroller
+2. Upload the hex code from /src to the microcontroller (you can use platformIo to generate .hex code )
 3. Run the simulation
 
 ## 📄 Report
